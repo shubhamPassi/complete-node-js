@@ -1,4 +1,4 @@
-# The Complete Guide to Advanced React Component Patterns
+# The Complete Node.js Developer Course (3rd Edition)
 
 ## Table of Contents
 
