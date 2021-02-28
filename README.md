@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [The Complete Guide to Advanced React Component Patterns](#the-complete-guide-to-advanced-react-component-patterns)
+- [The Complete Node.js Developer Course (3rd Edition)](#the-complete-guide-to-advanced-react-component-patterns)
   - [Table of Contents](#table-of-contents)
   - [**Section 1: Welcome**](#section-1-welcome)
   - [**Section 2: Installing and Exploring Node.js**](#section-2-installing-and-exploring-nodejs)
